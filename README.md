@@ -1,2 +1,10 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9756508&assignment_repo_type=AssignmentRepo)
-# Programming Foundations CA
+# Car Object
+
+This object has the following properties:
+-Brand (String) manufacturer of the vehicle.
+-Type (String) what type of car.
+-Color (String) what color the car is.
+-Capacity (Number) maximum amount of people the car is designed to fit.
+-Features (Array) a list of features the car has.
+-On (Boolean) indicator if the car is on or off.
+-Drive (Function) description to preform a task, in this example -driving the car.
